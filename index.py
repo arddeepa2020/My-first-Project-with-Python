@@ -200,6 +200,6 @@ while True:
         break
 
     else:
-        print("Wrong input. Enter the valid number from 1 to 5.")
+        print("Wrong input! Enter the valid number from 1 to 5.")
        
     
